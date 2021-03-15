@@ -22,7 +22,7 @@ Además de las repercusiones sociales y humanas, los accidentes viales, represen
 Bajo este tenor, y con el fin de atenuar la situación descrita anteriormente, resulta útil identificar cuáles son los factores que tienen mayor influencia en los choques automovilísticos, cuáles son los perfiles más propensos a generar un choque, y simultáneamente diseñar estrategias que permitan atacar las causas raíz de los siniestros automovilísticos en México.
 
 # Planteamiento de preguntas clave
-[]
+1. **¿Que delegacion/municipio resgistro mas accidentes?**
 
 # Analisis de Datos
 El analisi de datos inlcluye la obtencion, limpieza y transformacion de los datos. Adicionalmete se incluye el analsis exploratorio y las conclusiones.

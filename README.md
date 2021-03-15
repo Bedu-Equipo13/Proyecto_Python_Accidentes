@@ -28,6 +28,17 @@ Bajo este tenor, y con el fin de atenuar la situación descrita anteriormente, r
 El analisi de datos inlcluye la obtencion, limpieza y transformacion de los datos. Adicionalmete se incluye el analsis exploratorio y las conclusiones.
 * [Jupyter Notebook]()
 
+# Conclusiones y Proyección de analisis futuros
+los análisis inferenciales deberán ir enfocados en evaluar 3 aspectos específicos.
+
+El primer rubro será el análisis del impacto de los distintos factores o variables sobre los choques, para esto será necesario llevar a cabo análisis de regresión multivariable en los cuáles se puedan evaluar los coeficientes, así como las interacciones de estos factores. Dentro de las herramientas estadísticas que podremos utilizar para este análisis destacan ANOVA, K - Means, Random Forests, entre otros.
+
+El segundo rubro será ahondar en el análisis comparativo con otros archivos de datos como lo es el parque vehicular, la cantidad de hombres y mujeres registrados, persona registradas por delegación, personas registradas por grupos de edad, entre otros. Los cuáles serán eficacez para eliminar ciertos tipos de sesgo que por ahora se tienen y que impiden un análisis más profundo de los factores determinates para la generación de un choque.
+
+Como último rubro, será importante seguir enfocando hacía la predicción de choques bajo diferentes tipos de escenarios, para eto será útil efectuar métodos como las series de tiempo. asimismo y complementadno lo anterior estas predicciones podrán ayudar a también generar posibles análisis económetricos de la situación.
+
+Finalmente, englobando todo este desarrollo estipulado sobre las base del análisis exploratorio que se genero, la propuesta final será diseñar estrategias que permitan mitigar los factores (causas raíz) que propician mayor número de choques. A manera de ejemplo, durante este primer análisis encontramos que a medida que incrementaba la hora del día, aumentaba el número de choques, y que el Viernes era el día con mayor numero de choques registrados. Aunado a esto encontramos que alcaldías erán las que tenían un reporte de mayor número de accidentes, por lo que, como medida de contingencia,m s
+
 # Fuente de los Datos 
 * [Diccionario de datos](https://www.inegi.org.mx/rnm/index.php/catalog/506/):
 * [Pagina de los datos](https://www.inegi.org.mx/programas/accidentes/):

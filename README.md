@@ -22,7 +22,18 @@ Además de las repercusiones sociales y humanas, los accidentes viales, represen
 Bajo este tenor, y con el fin de atenuar la situación descrita anteriormente, resulta útil identificar cuáles son los factores que tienen mayor influencia en los choques automovilísticos, cuáles son los perfiles más propensos a generar un choque, y simultáneamente diseñar estrategias que permitan atacar las causas raíz de los siniestros automovilísticos en México.
 
 # Planteamiento de preguntas clave
-1. **¿Que delegacion/municipio resgistro mas accidentes?**
+1. ¿Que delegacion/municipio resgistro mas accidentes?
+2. ¿Cual es el promedio de accidentes por delegacion del año 2010 a 2019?
+3. ¿Cuales son las tres delegaciones con mas accidentes y como es su tendencia?
+4. ¿En que año se han registrado mas accidentes en la CDMX y cual es su tendencia?
+5. ¿Quiénes son mas propensos a sufrir accidentes, los hombres o las mujeres y como es la tendencia?
+6. ¿Cuáles son los meses con mayores accidentes a los largo de los años?
+7. ¿Cuáles son los dias de la semana con mayores accidentes a los largo de los años?
+8. ¿Cual es la edad mas propensa a sufrir accidentes?
+9. ¿Que porcentaje de datos de edades de 99 y 100 años hay en los datos?
+10. ¿Cual es la Tedencia de las edades mas propensas a sufrir accidentes del 2010 al 2019?
+11. ¿Que vehiculo es el que causa mas accidentes?
+12. ¿Cual es la tendencia de los 6 tipos de vehiculos que causan mas accidentes?
 
 # Analisis de Datos
 El analisi de datos inlcluye la obtencion, limpieza y transformacion de los datos. Adicionalmete se incluye el analsis exploratorio y las conclusiones.

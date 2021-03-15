@@ -7,7 +7,7 @@
 * Adalberto Benitez Zapata: adalb518@gmail.com
 * Sergio Maldonado Rodriguez: sermalrod@outlook.com
 
-# Identificacion del Problema
+# Identificación del Problema
 
 Sin duda alguna los automóviles han sido y son parte esencial de la sociedad, su movilidad y su transporte, desafortunadamente los siniestros causados por ellos son parte inherente de su uso y el impacto de ellos repercute de manera directa o indirecta en la vida de los involucrados, pero también de las personas que los rodean.
 
@@ -22,25 +22,25 @@ Además de las repercusiones sociales y humanas, los accidentes viales, represen
 Bajo este tenor, y con el fin de atenuar la situación descrita anteriormente, resulta útil identificar cuáles son los factores que tienen mayor influencia en los choques automovilísticos, cuáles son los perfiles más propensos a generar un choque, y simultáneamente diseñar estrategias que permitan atacar las causas raíz de los siniestros automovilísticos en México.
 
 # Planteamiento de preguntas clave
-1. ¿Que delegacion/municipio resgistro mas accidentes?
-2. ¿Cual es el promedio de accidentes por delegacion del año 2010 a 2019?
-3. ¿Cuales son las tres delegaciones con mas accidentes y como es su tendencia?
-4. ¿En que año se han registrado mas accidentes en la CDMX y cual es su tendencia?
+1. ¿Qué delegación/municipio registró más accidentes?
+2. ¿Cuál es el promedio de accidentes por delegación del año 2010 a 2019?
+3. ¿Cuáles son las tres delegaciones con más accidentes y como es su tendencia?
+4. ¿En que año se han registrado más accidentes en la CDMX y cuál es su tendencia?
 5. ¿Quiénes son mas propensos a sufrir accidentes, los hombres o las mujeres y como es la tendencia?
 6. ¿Cuáles son los meses con mayores accidentes a los largo de los años?
-7. ¿Cuáles son los dias de la semana con mayores accidentes a los largo de los años?
-8. ¿Cual es la edad mas propensa a sufrir accidentes?
-9. ¿Que porcentaje de datos de edades de 99 y 100 años hay en los datos?
-10. ¿Cual es la Tedencia de las edades mas propensas a sufrir accidentes del 2010 al 2019?
-11. ¿Que vehiculo es el que causa mas accidentes?
-12. ¿Cual es la tendencia de los 6 tipos de vehiculos que causan mas accidentes?
+7. ¿Cuáles son los días de la semana con mayores accidentes a los largo de los años?
+8. ¿Cuál es la edad más propensa a sufrir accidentes?
+9. ¿Qué porcentaje de datos de edades de 99 y 100 años hay en los datos?
+10. ¿Cuál es la tendencia de las edades más propensas a sufrir accidentes del 2010 al 2019?
+11. ¿Qué vehiculo es el que causa más accidentes?
+12. ¿Cuál es la tendencia de los 6 tipos de vehiculos que causan más accidentes?
 
-# Analisis de Datos
-El analisi de datos inlcluye la obtencion, limpieza y transformacion de los datos. Adicionalmete se incluye el analsis exploratorio y las conclusiones.
+# Análisis de datos
+El análisis de datos incluye la obtención, limpieza y transformación de los datos. Adicionalmente se incluye el análisis exploratorio y las conclusiones.
 * [Jupyter Notebook]()
 
 # Conclusiones y Proyección de analisis futuros
-los análisis inferenciales deberán ir enfocados en evaluar 3 aspectos específicos.
+Los análisis inferenciales deberán ir enfocados en evaluar 3 aspectos específicos.
 
 El primer rubro será el análisis del impacto de los distintos factores o variables sobre los choques, para esto será necesario llevar a cabo análisis de regresión multivariable en los cuáles se puedan evaluar los coeficientes, así como las interacciones de estos factores. Dentro de las herramientas estadísticas que podremos utilizar para este análisis destacan ANOVA, K - Means, Random Forests, entre otros.
 

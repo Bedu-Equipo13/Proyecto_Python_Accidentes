@@ -7,6 +7,13 @@
 * Adalberto Benitez Zapata: adalb518@gmail.com
 * Sergio Maldonado Rodriguez: sermalrod@outlook.com
 
+# Contenido del Repositorio
+* Jupyter Notebook: contiene el Jupyter notebook perteneciente al proyecto
+* Presentacion: contiene la presentacion del proyecto
+* Reporte version git: contiene el reporte del proyecto en version git
+* Video: contiene el video del proyecto
+* Dataset_limpio: contiene el dataset generado apartir del analisis.
+
 # Identificación del Problema
 
 Sin duda alguna los automóviles han sido y son parte esencial de la sociedad, su movilidad y su transporte, desafortunadamente los siniestros causados por ellos son parte inherente de su uso y el impacto de ellos repercute de manera directa o indirecta en la vida de los involucrados, pero también de las personas que los rodean.

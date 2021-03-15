@@ -25,7 +25,8 @@ Bajo este tenor, y con el fin de atenuar la situación descrita anteriormente, r
 []
 
 # Analisis de Datos
-Enlace 
+El analisi de datos inlcluye la obtencion, limpieza y transformacion de los datos. Adicionalmete se incluye el analsis exploratorio y las conclusiones.
+* [Jupyter Notebook]()
 
 # Fuente de los Datos 
 * [Diccionario de datos](https://www.inegi.org.mx/rnm/index.php/catalog/506/):
